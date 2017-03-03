@@ -1,0 +1,36 @@
+﻿[
+	{
+		"category":"大学",
+		"name":"西南民族大学",
+		"motto":"和合偕习 自信自强",
+		"image":"images/college.jpg",
+		"time":"2010年-2013年",
+		"url":"www.swun.edu.cn",
+		"speciality":"电子信息工程"
+	},
+	{
+		"category":"高中",
+		"name":"安达市高级中学",
+		"motto":"立志勤奋 文明求实",
+		"image":"images/high.jpg",
+		"time":"2010年-2013年",
+		"posts":"吉祥物"
+	},
+	{
+		"category":"中学",
+		"name":"安达市第三中学",
+		"motto":"树正气 励精图治 讲奉献 再创辉煌",	
+		"image":"images/middle.jpg",
+		"time":"2006年-2010年",
+		"posts":"数学课代表、三联帮帮主"
+	},
+	{
+		"category":"小学",
+		"name":"安达市和平小学",
+		"motto":"育人以正 为教以勤 治学以精 立校以信",
+		"image":"images/primary.jpg",
+		"time":"2000年-2006年",
+		"posts":"小组长"
+	}
+
+]
