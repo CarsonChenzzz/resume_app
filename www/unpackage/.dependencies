@@ -1,0 +1,11 @@
+{
+  "index.html": {
+    "href": "index.html",
+    "resources": [
+      "images/font/iconfont.eot",
+      "images/font/iconfont.ttf",
+      "images/font/iconfont.svg"
+    ],
+    "priority": 0
+  }
+}
